@@ -6,7 +6,7 @@
 
 This project constructs an original, multi-source database of LGBT+ organizations in mainland China to examine how social movements emerge and develop under political constraints and transnational influences.
 
-Drawing on NGO directories, archived webpages, historical mailing-list archives, and publicly available social media sources, the project seeks to identify formal and informal organizations that are often absent from conventional NGO registries.
+Drawing on existing datasets, archived webpages, historical mailing-list archives, and publicly available social media sources, the project seeks to identify formal and informal organizations that are often absent from conventional NGO registries.
 
 The database is designed to support longitudinal analysis of organizational development, collective identity framing, and advocacy strategies within China's LGBT+ movement.
 
