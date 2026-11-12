@@ -59,3 +59,9 @@ See [METHODOLOGY.md](METHODOLOGY.md) for further details on sources, evidence, r
 ## Data Availability
 
 This repository presents documentation and preliminary progress from an ongoing research project. Raw correspondence and personal information are not included in these public reports. Any release of organization-level data will depend on further validation and assessment of source-access conditions and disclosure risks.
+
+## References
+
+Armstrong, Elizabeth A. 2002. *Forging Gay Identities: Organizing Sexuality in San Francisco, 1950–1994*. Chicago: University of Chicago Press.
+
+Velasco, Kristopher, Siddhartha Baral, and Tara Gonsalves. 2026. "The Global LGBTQ+ NGO Database." Dataset, available upon request. https://krisvelasco.com/datasets.html.
