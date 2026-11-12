@@ -74,4 +74,4 @@ Several limitations should be noted. An HIV/AIDS-focused mailing list gives grea
 
 Given the sensitivity of the research topic, public documentation separates methodological information from raw correspondence and personal information. Decisions about releasing organization-level records will consider evidentiary quality, source-access conditions, and disclosure risks.
 
-**Current status:** Candidate extraction and cleaning of China AIDS Group email bodies have been carried out. Online corroboration and manual review are ongoing. Systematic processing of attachments and additional source collections is planned.
+**Current status:** Candidate extraction and cleaning of China AIDS Group email bodies have been carried out. Online corroboration and manual review are ongoing. Systematic processing of attachments and additional source collections is planned. 
